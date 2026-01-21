@@ -1,0 +1,6 @@
+pywinauto==0.6.8
+pillow==10.0.0
+pytesseract==0.3.10
+playwright==1.44.0
+google-generative-ai==0.0.5
+pyautogui
